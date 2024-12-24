@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"gameprojects","l":"AdventureModel"},{"p":"gameprojects","l":"Adventurer"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"gameprojects","l":"Items"},{"p":"gameprojects","l":"Location"},{"p":"gameprojects","l":"Room"},{"p":"gameprojects","l":"TextAdventure"},{"p":"gameprojects","l":"Wall"},{"p":"gameprojects","l":"Water"}];updateSearchResults();
